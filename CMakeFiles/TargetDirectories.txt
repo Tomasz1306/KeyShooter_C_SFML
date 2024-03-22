@@ -1,0 +1,3 @@
+/home/tomasz/Desktop/keyShooter/CMakeFiles/sfml.dir
+/home/tomasz/Desktop/keyShooter/CMakeFiles/edit_cache.dir
+/home/tomasz/Desktop/keyShooter/CMakeFiles/rebuild_cache.dir
